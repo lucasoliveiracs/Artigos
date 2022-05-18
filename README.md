@@ -1,4 +1,4 @@
-# Artigos <img>
+# Artigos <img src="https://github.com/lucasoliveiracs/Artigos/blob/main/jusbrasil-icon.png">
 Portfólio de artigos sobre direito, tecnologia e negócios, muitas vezes envolvendo todos os 3 temas em conjuntos. Vocês podem acessar o artigo completo clicando nos links abaixo e acessando o Jusbrasil.
 
 > [Direitos Autorais na Criação de Softwares](https://lucaslocscandido3362.jusbrasil.com.br/artigos/1429505072/direitos-autorais-na-criacao-de-softwares)
